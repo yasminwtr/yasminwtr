@@ -11,7 +11,7 @@
  
  </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block; align-items: center"><br>
 
   <h3>♦ Languages </h3>
   <img align = "center" alt = "stef-js" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
