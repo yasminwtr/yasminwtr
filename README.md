@@ -6,8 +6,8 @@
 
 <div display: inline_block>
   <a href = "https://github.com/yasminwtr">
-   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&theme=radical">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&layout=compact&theme=radical ">
+   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=yasminwtr&show_icons=true&theme=synthwave">
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwtr&layout=compact&theme=radical ">
  
  </div>
   
@@ -32,5 +32,5 @@
     <h3>♦ Social Networks</h3>
   <a href = "https://br.linkedin.com/in/yasmin-titow" target ="-blank"> <img src =          "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" > </a>
     
-   ![Snake animation](https://github.com/steflemos/steflemos/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/yasminwtr/yasminwtr/blob/output/github-contribution-grid-snake.svg)
   </div>
