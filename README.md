@@ -4,14 +4,14 @@
 - 💬 Contate-me pelo email: yasmintitow@gmail.com
 - 😄 Pronouns: Ela/Dela
 
-<div display: inline_block>
+<div display: inline_block align="center">
   <a href = "https://github.com/yasminwtr">
    <img height="162em" src="https://github-readme-stats.vercel.app/api?username=yasminwtr&show_icons=true&theme=tokyonight">
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwtr&layout=compact&theme=tokyonight ">
  
  </div>
   
-<div style="display: inline_block; align-items: center"><br>
+<div style="display: inline_block"><br>
 
   <h3>♦ Languages </h3>
   <img align = "center" alt = "stef-js" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
