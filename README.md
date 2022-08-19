@@ -7,7 +7,7 @@
 <div display: inline_block align="center">
   <a href = "https://github.com/yasminwtr">
    <img height="162em" src="https://github-readme-stats.vercel.app/api?username=yasminwtr&show_icons=true&theme=tokyonight">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwtr&layout=compact&theme=tokyonight ">
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminwtr&layout=compact&theme=tokyonight">
  
  </div>
   
