@@ -1,6 +1,6 @@
 ## Olá, bem vindo(a)! Eu sou a Yasmin :)
 
-- 🐸 Cursando técnico em Desenvolvimento de Sistemas no SENAI
+- 🐸 Técnico em Desenvolvimento de Sistemas - SENAI
 - 👾 Jovem aprendiz como Analista de QA na Softplan
 - 💌 Meu e-mail: yasmintitow@gmail.com
 
